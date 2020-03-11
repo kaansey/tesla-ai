@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tesla/static/css/main.052ad02c.chunk.css",
+    "main.js": "/tesla/static/js/main.d87a5212.chunk.js",
+    "main.js.map": "/tesla/static/js/main.d87a5212.chunk.js.map",
+    "runtime-main.js": "/tesla/static/js/runtime-main.ec1d0714.js",
+    "runtime-main.js.map": "/tesla/static/js/runtime-main.ec1d0714.js.map",
+    "static/js/2.c8c9095d.chunk.js": "/tesla/static/js/2.c8c9095d.chunk.js",
+    "static/js/2.c8c9095d.chunk.js.map": "/tesla/static/js/2.c8c9095d.chunk.js.map",
+    "index.html": "/tesla/index.html",
+    "precache-manifest.df3fa37c4814cd603f06707aeae27c03.js": "/tesla/precache-manifest.df3fa37c4814cd603f06707aeae27c03.js",
+    "service-worker.js": "/tesla/service-worker.js",
+    "static/css/main.052ad02c.chunk.css.map": "/tesla/static/css/main.052ad02c.chunk.css.map",
+    "static/js/2.c8c9095d.chunk.js.LICENSE.txt": "/tesla/static/js/2.c8c9095d.chunk.js.LICENSE.txt",
+    "static/media/car_icon.svg": "/tesla/static/media/car_icon.347d0e2a.svg",
+    "static/media/play.svg": "/tesla/static/media/play.d1c4606a.svg",
+    "static/media/reset.svg": "/tesla/static/media/reset.d6e9bf4d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1d0714.js",
+    "static/js/2.c8c9095d.chunk.js",
+    "static/css/main.052ad02c.chunk.css",
+    "static/js/main.d87a5212.chunk.js"
+  ]
+}
