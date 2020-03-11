@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a188b6855da01eb6df64ffb3581d788e",
+    "revision": "41b700555cc1b44134cb2c56aeec38d8",
     "url": "/tesla-ai/index.html"
   },
   {
