@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/tesla-ai/static/css/main.052ad02c.chunk.css",
-    "main.js": "/tesla-ai/static/js/main.d87a5212.chunk.js",
-    "main.js.map": "/tesla-ai/static/js/main.d87a5212.chunk.js.map",
-    "runtime-main.js": "/tesla-ai/static/js/runtime-main.ec1d0714.js",
-    "runtime-main.js.map": "/tesla-ai/static/js/runtime-main.ec1d0714.js.map",
-    "static/js/2.c8c9095d.chunk.js": "/tesla-ai/static/js/2.c8c9095d.chunk.js",
-    "static/js/2.c8c9095d.chunk.js.map": "/tesla-ai/static/js/2.c8c9095d.chunk.js.map",
+    "main.js": "/tesla-ai/static/js/main.3f1205d4.chunk.js",
+    "main.js.map": "/tesla-ai/static/js/main.3f1205d4.chunk.js.map",
+    "runtime-main.js": "/tesla-ai/static/js/runtime-main.fd7a221e.js",
+    "runtime-main.js.map": "/tesla-ai/static/js/runtime-main.fd7a221e.js.map",
+    "static/js/2.d091778d.chunk.js": "/tesla-ai/static/js/2.d091778d.chunk.js",
+    "static/js/2.d091778d.chunk.js.map": "/tesla-ai/static/js/2.d091778d.chunk.js.map",
     "index.html": "/tesla-ai/index.html",
-    "precache-manifest.df3fa37c4814cd603f06707aeae27c03.js": "/tesla-ai/precache-manifest.df3fa37c4814cd603f06707aeae27c03.js",
+    "precache-manifest.7511b173fb6205c0bcfa157d22add044.js": "/tesla-ai/precache-manifest.7511b173fb6205c0bcfa157d22add044.js",
     "service-worker.js": "/tesla-ai/service-worker.js",
     "static/css/main.052ad02c.chunk.css.map": "/tesla-ai/static/css/main.052ad02c.chunk.css.map",
-    "static/js/2.c8c9095d.chunk.js.LICENSE.txt": "/tesla-ai/static/js/2.c8c9095d.chunk.js.LICENSE.txt",
+    "static/js/2.d091778d.chunk.js.LICENSE.txt": "/tesla-ai/static/js/2.d091778d.chunk.js.LICENSE.txt",
     "static/media/car_icon.svg": "/tesla-ai/static/media/car_icon.347d0e2a.svg",
     "static/media/play.svg": "/tesla-ai/static/media/play.d1c4606a.svg",
     "static/media/reset.svg": "/tesla-ai/static/media/reset.d6e9bf4d.svg"
   },
   "entrypoints": [
-    "/tesla-ai/static/js/runtime-main.ec1d0714.js",
-    "/tesla-ai/static/js/2.c8c9095d.chunk.js",
-    "/tesla-ai/static/css/main.052ad02c.chunk.css",
-    "/tesla-ai/static/js/main.d87a5212.chunk.js"
+    "static/js/runtime-main.fd7a221e.js",
+    "static/js/2.d091778d.chunk.js",
+    "static/css/main.052ad02c.chunk.css",
+    "static/js/main.3f1205d4.chunk.js"
   ]
 }
